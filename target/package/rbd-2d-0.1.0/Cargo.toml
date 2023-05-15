@@ -13,7 +13,9 @@
 edition = "2021"
 name = "rbd-2d"
 version = "0.1.0"
+description = "physics simulations with functions"
 readme = "README.md"
 license-file = "LICENSE.txt"
+repository = "https://github.com/bwaklog/rusty-physics/"
 
 [dependencies]

@@ -2,8 +2,10 @@
 name = "rbd-2d"
 version = "0.1.0"
 edition = "2021"
-descriptions = "physics simulations with functions"
+description = "physics simulations with functions"
 license-file = "LICENSE.txt"
+readme = "README.md"
+repository = "https://github.com/bwaklog/rusty-physics/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
