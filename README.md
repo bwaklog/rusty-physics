@@ -1,4 +1,3 @@
-<a href="https://github.com/bwaklog"><img src="favicon.png" width=55 style="opacity: 0.8; box-shadow: 0 4px 16px black; border-radius: 4px;"/></a>
 # Physics Simulation in Rust 🦀  
 ### version - 0001
 ___
