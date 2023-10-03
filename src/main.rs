@@ -95,6 +95,7 @@ fn show_system(particles: &Vec<Particle>) {
 // defining constants
 const NUMBER_OF_PARTICLES: u32 = 4;
 const SIMULATION_TIME: f32 = 10.0;
+const GACC: f32 = 9.8;
 const DT: f32 = 0.5;
 fn main() {
     // creating an empty vector to hold all particle objects
